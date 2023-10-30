@@ -4,7 +4,7 @@ draft = false
 image = "wellen-die-schaum-bilden.jpg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](wellen-die-schaum-bilden.jpg)
 
 ## Siri
 
