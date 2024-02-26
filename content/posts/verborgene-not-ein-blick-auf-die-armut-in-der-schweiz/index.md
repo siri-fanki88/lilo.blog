@@ -4,6 +4,7 @@ date = "2024-02-26"
 draft = false
 pinned = false
 tags = ["CaritasBern", "ArmutinderSchweiz", "BarbaraKeller"]
+image = "whatsapp-bild-2024-02-26-um-19.19.03_511a9af9.jpg"
 description = "Es ist ein tabuisiertes und oft auch umstrittenes Thema in der Schweiz: die Armut. Doch wie kommt es, dass so viele Menschen, rund 8.7% der gesamten Schweizer Bevölkerung, davon betroffen sind aber trotzdem stets unsichtbar bleiben?  "
 +++
 {{<lead>}}
@@ -14,7 +15,7 @@ Es ist ein tabuisiertes und oft auch umstrittenes Thema in der Schweiz: die Armu
 
 Siri Fankhauser und Moana Füri 
 
-![Ein Kerzenmeer leuchtet über den Bundesplatz. Eine Millionen Sterne, ein Event der Organisation Caritas, um auf die Armut im Kanton Bern aufmerksam zu machen (Foto: Siri Fankhauser) ]( "Ein Kerzenmeer leuchtet über den Bundesplatz. Eine Millionen Sterne, ein Event der Organisation Caritas, um auf die Armut im Kanton Bern aufmerksam zu machen (Foto: Siri Fankhauser) ")
+![Ein Kerzenmeer leuchtet über den Bundesplatz. Eine Millionen Sterne, ein Event der Organisation Caritas, um auf die Armut im Kanton Bern aufmerksam zu machen (Foto: Siri Fankhauser) ](whatsapp-bild-2024-02-26-um-19.19.03_511a9af9.jpg "Ein Kerzenmeer leuchtet über den Bundesplatz. Eine Millionen Sterne, ein Event der Organisation Caritas, um auf die Armut im Kanton Bern aufmerksam zu machen (Foto: Siri Fankhauser) ")
 
 Es ist ein regnerischer Freitag, eine Woche vor Weihnachten. Viele Menschen rennen gestresst durch die Strassen von Bern, um kurzfristige Weihnachtseinkäufe zu erledigen, oder dem, um diese Zeit immer so vollbepackten Terminplan nachzugehen. Die meisten wissen wahrscheinlich gar nicht, was dieses Meer aus Kerzen auf dem Bundesplatz in Bern zu bedeuten hat, an dem sie unbeachtet vorbei hasten. Doch wer sich einen Moment Zeit nimmt, um das Lichtermeer zu bestaunen und der besinnlichen Alphornmusik zu lauschen, merkt schnell, dass es sich dabei um mehr als nur eine hübsche Dekoration handelt, denn die Kerzen stammen von einem der knallroten Stände am Rande des durchnässten Platzes. Die Stände gehören der Hilfsorganisation Caritas, die damit eine Spendenaktion betreibt. Die freiwilligen Caritasmitarbeiter\*innen sind vollkommen damit beschäftigt, die Kerzen, die wegen dem Regen erloschen sind, wieder anzuzünden und es werden immer mehr, die erlöschen. Viele Menschen stehen darum herum und machen begeistert Fotos, stehen an einem der vielen Stände an, um noch eine Kerze mehr zu kaufen und sie dem Meer hinzuzufügen, oder sie hören einfach der Musik der Alphornbläser\*innen zu. Jede einzelne Kerze, die aufgestellt wird, steht für einen armutsbetroffenen Menschen in der Schweiz und liefert einen Batzen für die Spendenbox. Eine Mutter steht zusammen mit ihrem kleinen Sohn am Rande des Bundesplatzes und die beiden blicken auf die vielen Lichter. Die Mutter zeigt auf die brennende Kerze, die sie soeben gekauft hat und ​​meint zu ihrem kleinen Sohn, dass er sich nun für sich oder andere Menschen etwas wünschen könne. Und wenn er ganz fest daran glaube, werde der Wunsch vielleicht auch in Erfüllung gehen.
 
