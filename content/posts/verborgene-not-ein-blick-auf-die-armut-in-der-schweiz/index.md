@@ -3,6 +3,7 @@ title = "Verborgene Not: Ein Blick auf die Armut in der Schweiz "
 date = "2024-02-26"
 draft = false
 pinned = false
+tags = ["CaritasBern", "ArmutinderSchweiz", "BarbaraKeller"]
 description = "Es ist ein tabuisiertes und oft auch umstrittenes Thema in der Schweiz: die Armut. Doch wie kommt es, dass so viele Menschen, rund 8.7% der gesamten Schweizer Bevölkerung, davon betroffen sind aber trotzdem stets unsichtbar bleiben?  "
 +++
 {{<lead>}}
