@@ -48,6 +48,6 @@ Mit über 16 regionalen, unabhängigen Standorten und ihren zahlreichen Projekte
 
 > "Ich glaube was uns ausmacht ist, dass wir sehr nahe an den Menschen sind. Wir haben für alle Zielgruppen ein Angebot und ich denke, das ist auch was uns von anderen unterscheidet, dass wir versuchen, alle irgendwie abzudecken"
 >
-> Barbara Keller
+> *Barbara Keller*
 
 Zurück auf dem wasserüberschwemmten Bundesplatz hat der Regen nun auch noch die letzte brennende Kerze ausgelöscht. Die durchnässten Caritas-Mitarbeiter*innen haben den Versuch aufgegeben, dem Regen zu trotzen und ein wenig niedergeschlagen ihre Stände abgebaut. Doch auch wenn der Regen dem Event etwas einen Strich durch die Rechnung gemacht hat, ist der Kampf der Caritas gegen die Armut noch lange nicht vorbei.
