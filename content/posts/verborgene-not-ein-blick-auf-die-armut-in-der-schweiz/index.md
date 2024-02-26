@@ -45,3 +45,9 @@ Die Armutsgrenze in der Schweiz wird von den Richtlinien der Konferenz für Sozi
 ### Die Organisation Caritas 
 
 Mit über 16 regionalen, unabhängigen Standorten und ihren zahlreichen Projekten leistet die Caritas einen wichtigen Beitrag zur Armutsbekämpfung in der Schweiz. Die Projekte beinhalten unter anderem Arbeitsintegration, finanzielle und soziale Beratung und Unterstützung, kostenlose Deutschkurse und zum Beispiel die KulturLegi, bei welcher Menschen mit einem niedrigen Budget verbilligt an kulturellen und sozialen Tätigkeiten teilnehmen können. “Ich glaube, was uns ausmacht, ist, dass wir sehr nahe an den Menschen sind. Wir haben für alle Zielgruppen ein Angebot und ich denke, das ist auch was uns von anderen unterscheidet, dass wir versuchen, alle irgendwie abzudecken”, sagt Barbara Keller über die Caritas. Zudem findet man in Bern an den verschiedensten Standorten Läden, die zwar gewöhnlich aussehen, aber nur für Armutsbetroffene gedacht sind. Sie bieten zum Beispiel vergünstigte Lebensmittel an, oder verkaufen gebrauchte Kleider. ​​Der Ertrag stimme zwar nicht mit dem Umsatz überein, aber es sei wichtiger, dass die Menschen etwas zu essen haben. Mit den vielen Spenden könne man sich dann so etwas schon leisten, meint Barbara Keller von der Caritas Bern.
+
+> "Ich glaube was uns ausmacht ist, dass wir sehr nahe an den Menschen sind. Wir haben für alle Zielgruppen ein Angebot und ich denke, das ist auch was uns von anderen unterscheidet, dass wir versuchen, alle irgendwie abzudecken"
+>
+> \- Barbara Keller
+
+Zurück auf dem wasserüberschwemmten Bundesplatz hat der Regen nun auch noch die letzte brennende Kerze ausgelöscht. Die durchnässten Caritas-Mitarbeiter*innen haben den Versuch aufgegeben, dem Regen zu trotzen und ein wenig niedergeschlagen ihre Stände abgebaut. Doch auch wenn der Regen dem Event etwas einen Strich durch die Rechnung gemacht hat, ist der Kampf der Caritas gegen die Armut noch lange nicht vorbei.
